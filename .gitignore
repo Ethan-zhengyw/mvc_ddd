@@ -1,0 +1,10 @@
+.idea/
+*/__pycache__/*
+src/logs/
+*.pyc
+src/tests/logs/
+src/static/*.xlsx
+**/data/*敏感.xlsx
+**/*.numbers
+src/.coverage
+!src/static/*模板*
